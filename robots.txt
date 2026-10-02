@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-6dbdd04dab.jckudvr.cn/sitemap.xml

@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "22c6fd090295ce57d9ddf34e",
+  "owner": "yrpbpx",
+  "repo": "page-652eb2d6d905caccd6d071bb",
+  "title": "喵子科学站",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "652eb2d6d905caccd6d071bb",
+      "a": "喵子科学站",
+      "b": "",
+      "entity": "喵子科学站",
+      "brand": "喵子科学站",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a14473a5519e0d5693ab7ce2f6379aed298ea6836fce5bd94403492d91d8abbb",
+      "content": {
+        "keyword1": "喵子科学站",
+        "keyword2": "",
+        "primary_entity": "喵子科学站",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "喵子科学站是提供稳定机场订阅与VPN网络加速的官方网站，支持多平台客户端下载，覆盖流媒体解锁、游戏加速与多设备同时在线，套餐透明年付更优惠。",
+          "AI_DESCRIPTION": "喵子科学站是提供稳定机场订阅与VPN网络加速的官方网站，支持多平台客户端下载，覆盖流媒体解锁、游戏加速与多设备同时在线，套餐透明年付更优惠。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f3f4f6;color:#111827;line-height:1.65;font-size:16px;overflow-x:hidden;margin:0}*{box-sizing:border-box}a{color:#6d28d9;text-decoration:none}header{background:#fff;border-bottom:1px solid #e5e7eb;padding:14px 0}nav ul{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 18px;list-style:none;margin:0;padding:0 16px}.container{max-width:1100px;margin:0 auto;padding:0 16px}.hero{padding:88px 16px 56px;text-align:center;background:#faf5ff}h1{font-size:2.25rem;font-weight:700;color:#4c1d95;margin:0 0 16px;line-height:1.25}h1[itemprop=\"name\"]{display:block}.lead{font-size:1.125rem;color:#4b5563;max-width:680px;margin:0 auto 20px}section{padding:48px 16px}.section-alt{background:#fff}h2{font-size:1.5rem;color:#5b21b6;text-align:center;margin:0 0 24px}h3{font-size:1.12rem;color:#4c1d95;margin:18px 0 8px}.plans{display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:stretch}.card{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:22px;flex:1 1 250px;max-width:300px}.card.featured{border:2px solid #7c3aed;background:#f5f3ff;box-shadow:0 8px 24px rgba(109,40,217,.12)}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:3px 10px;border-radius:999px;margin-bottom:8px}.price{font-size:1.75rem;font-weight:700;color:#6d28d9;margin:8px 0}.annual{font-size:.9rem;color:#6b7280;margin:0 0 8px}.feat{list-style:none;margin:12px 0 0;padding:0}.feat li{padding:6px 0 6px 22px;position:relative;font-size:.95rem}.feat li:before{content:\"+\";position:absolute;left:0;color:#7c3aed;font-weight:700}.scenes,.clients,.steps-wrap{max-width:800px;margin:0 auto}.steps{margin:0;padding-left:22px}.steps li{margin-bottom:12px}details{background:#fff;border:1px solid #e5e7eb;border-radius:8px;margin:0 auto 10px;padding:0 16px;max-width:760px}summary{padding:14px 0;font-weight:600;color:#4c1d95}details p{margin:0 0 14px;color:#374151}footer{background:#2e1065;color:#ddd6fe;padding:36px 16px 24px;font-size:14px}footer h3{color:#ede9fe;font-size:1.05rem;text-align:left;margin:0 0 10px}.foot-grid{display:flex;flex-wrap:wrap;gap:24px;max-width:1100px;margin:0 auto}footer ul{list-style:none;margin:0;padding:0}footer li{margin:6px 0}footer a{color:#c4b5fd}.copyright{text-align:center;margin-top:28px;padding-top:16px;border-top:1px solid #5b21b6;color:#a78bfa;font-size:13px}@media(min-width:640px){h1{font-size:2.75rem}.hero{padding:112px 16px 72px}}</style><header><nav><ul><li><a href=\"#\">首页</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></header><main><div class=\"hero\"><h1>喵子科学站</h1><p class=\"lead\">喵子科学站官方网站提供高速稳定的机场订阅与VPN网络加速服务。全球节点、流媒体解锁、游戏加速与多端客户端指引一站式说明，套餐按需选择，年付更优惠。</p><p><a href=\"#plans\">查看套餐对比</a> · <a href=\"#clients\">客户端下载指引</a></p></div><section id=\"plans\" class=\"section-alt\"><div class=\"container\"><h2>套餐对比</h2><p>以下为喵子科学站现行套餐。流量为每月极速流量，设备数为同时在线上限。年付可锁定优惠价。请通过官方流程订阅后获取专属机场订阅链接。</p><div class=\"plans\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"badge\">热门推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></div></section><section id=\"scenes\"><div class=\"container scenes\"><h2>使用场景</h2><h3>海外流媒体与内容访问</h3><p>旗舰版起提供全节点原生流媒体解锁，适合高清影视、音乐与创作者内容访问。基础版覆盖常用基础平台，满足轻度观看需求。</p><h3>游戏加速与低延迟线路</h3><p>旗舰版包含 IPLC 专线游戏加速优化，降低跨境延迟与抖动，适合需要稳定连接的对战、更新与语音场景。团队版可进一步使用高带宽 VIP 节点。</p><h3>远程办公与在线学习</h3><p>会议软件、协作文档、代码仓库与学术资源访问时，选择延迟较低的节点可保持连接连续。多设备套餐方便电脑与手机同时在线。</p><h3>出行与家庭共享</h3><p>同一订阅可在支持的客户端中导入。按套餐设备上限分配给手机、平板与电脑，出行或居家均可保持网络加速习惯。</p></div></section><section id=\"guide\" class=\"section-alt\"><div class=\"container steps-wrap\"><h2>操作说明</h2><h3>从选套餐到成功连接</h3><ol class=\"steps\"><li>对照上方套餐对比，按每月流量、同时在线设备数以及是否需要 IPLC 与全节点流媒体，选择基础版、旗舰版或团队版。</li><li>通过喵子科学站官方订阅流程完成下单后，在用户中心复制专属机场订阅链接（请妥善保存，勿公开传播）。</li><li>根据设备系统前往下方客户端下载说明，从各软件官方渠道安装 Clash 系、Shadowrocket 等兼容客户端。</li><li>打开客户端，选择添加订阅或导入 URL，粘贴喵子科学站订阅地址并更新，即可拉取最新节点列表。</li><li>按延迟或地区筛选节点，启用规则或全局模式后连接。首次使用建议先测速再固定常用节点。</li></ol><p>本站为官方网站说明页，不在此直接托管安装包。配置完成后即可将流量用于浏览、媒体与游戏加速。使用中请遵守所在地法律法规。</p></div></section><section id=\"clients\"><div class=\"container clients\"><h2>客户端下载</h2><p>喵子科学站订阅兼容常见代理客户端。请从软件官方站点获取安装包，避免来路不明的修改版。导入本站订阅后即可使用节点池。</p><h3>桌面系统</h3><p>Windows 与 macOS 可使用 Clash Verge、FlClash 等图形客户端：安装后添加订阅、更新节点，按需开启系统代理或 TUN。Linux 用户可选用兼容 Clash Meta 内核的图形或命令行方案。</p><h3>移动设备</h3><p>Android 推荐 Clash Meta for Android，可按应用分流。iOS 常用 Shadowrocket、Stash 等，需自行准备安装渠道。导入同一订阅即可与电脑共用节点。</p><h3>路由与进阶</h3><p>家庭网关若支持 OpenClash、PassWall 等，可将订阅填入路由器实现全家设备加速。团队版支持企业定制路由时，可按域名与 IP 精细分流。</p><p><a href=\"#faq\">连接异常请先查阅常见问题</a>。客户端版本请保持更新，以获得更好的协议与规则兼容性。</p></div></section><section id=\"faq\" class=\"section-alt\"><h2>常见问题</h2><details><summary>喵子科学站是官方机场吗？如何识别官网？</summary><p>本页为喵子科学站官方网站，用于公布套餐、使用场景、操作说明与客户端下载指引。请通过本站公示信息获取订阅，避免非官方镜像与来历不明的安装包。</p></details><details><summary>如何下载客户端并导入机场订阅？</summary><p>按操作系统选择 Clash 系、Shadowrocket 等软件，从该软件官方渠道下载安装。在用户中心复制喵子科学站订阅链接，于客户端中添加订阅并更新节点，再选择节点连接即可。</p></details><details><summary>三个套餐如何选择？年付有什么不同？</summary><p>基础版适合轻度使用（100GB、3 设备、基础流媒体）。旗舰版面向日常主力用户（300GB、5 设备、全节点流媒体与 IPLC 游戏优化及优先工单）。团队版面向多设备或小团队（1000GB、20 设备、VIP 节点与定制路由）。年付按页内标价一次支付，价格更优。</p></details><details><summary>能否解锁流媒体？游戏延迟如何优化？</summary><p>基础版提供基础流媒体解锁。旗舰版与团队版强调全节点原生流媒体解锁。游戏方面，旗舰版起含 IPLC 专线优化，实际延迟仍受本地宽带与目标区服影响，建议在客户端内选择邻近或专线节点并对比测速。</p></details><details><summary>流量如何统计？多设备同时在线有限制吗？</summary><p>流量按走代理的实际使用量累计。基础版最多 3 台、旗舰版 5 台、团队版 20 台同时在线。超出上限可能影响速度或触发限制，请按成员数量选择套餐。当月流量用尽后需等待重置或调整套餐。</p></details><details><summary>节点分布有哪些？连接失败怎么办？</summary><p>节点覆盖常见亚洲、北美与欧洲方向，并区分普通线路与 IPLC 等优化线路。若无法连接，请先确认订阅已更新、客户端为较新版本、系统时间准确，再更换节点或切换规则模式。旗舰与团队用户可走优先工单渠道说明设备与错误提示。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"foot-grid\"><div><h3>网站地图</h3><ul><li><a href=\"#\">首页概览</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div><div><h3>广告位</h3><p>展示合作与工具推荐栏位。欢迎与网络加速、客户端教程类内容互换展示。<a href=\"#\">合作说明</a></p></div><div><h3>友情链接</h3><ul><li><a href=\"#\">客户端配置手册</a></li><li><a href=\"#\">节点测速与选择</a></li><li><a href=\"#\">流媒体解锁须知</a></li><li><a href=\"#\">网络加速入门</a></li></ul></div></div><p class=\"copyright\">© 喵子科学站 官方网站。页面用于介绍机场订阅、VPN网络加速与客户端下载方式。请合法合规使用网络服务。</p></footer>",
+          "hash": "52dcf00ae73bae0685f33938f2e16d71d7d24092cf5796464cbf3f70d719efb2",
+          "seo": {
+            "title": "喵子科学站官网 - 机场订阅与VPN网络加速客户端下载",
+            "keywords": "喵子科学站,喵子科学站官网,喵子科学站机场,喵子科学站VPN,机场订阅,梯子,网络加速,加速器,客户端下载,IPLC",
+            "description": "喵子科学站是提供稳定机场订阅与VPN网络加速的官方网站，支持多平台客户端下载，覆盖流媒体解锁、游戏加速与多设备同时在线，套餐透明年付更优惠。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jckudvr.cn",
+    "host": "p-6dbdd04dab.jckudvr.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "jckudvr.cn",
+      "url": "https://jckudvr.cn/",
+      "label": "J20",
+      "apex": "jckudvr.cn",
+      "kind": null,
+      "identity": "qe8uaxxpf/page-65ac9dbd1a187ed93e128336"
+    },
+    {
+      "host": "dznr4b.cn",
+      "url": "https://dznr4b.cn/",
+      "label": "喵子科学站",
+      "apex": "dznr4b.cn",
+      "kind": null,
+      "identity": "jcpaept/page-49bf96f89477fda57770786d"
+    },
+    {
+      "host": "jxjehjsgh.cn",
+      "url": "https://jxjehjsgh.cn/",
+      "label": "喵子科学站",
+      "apex": "jxjehjsgh.cn",
+      "kind": null,
+      "identity": "rtedbtqmng/page-64d2e82f01058e5e169008ba"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0a2d14618effbbd7b7cb6084342ed80e77fa1ac7326359d16a1c33c9fd371db2",
+    "sitemap.xml": "81f175d7b9432af4c8587841a67534fc196fb6fb27865db4f1193c6fecfa4a2f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c4c86e7514cde1a62b6682d581d22a3d9cdcf220f36178cbd09b0f6e8953de6a",
+    "robots.txt": "3f197996da8e8dbb64c0b561dc053412375df50849834048fd8a454d738990e6",
+    "3ef631542f9c5b1ff9e7468561785e6e.txt": "48d8d4e98abfe671abafc7018943bd2b2b6b5db8691511cf8834c2368b2c89a5"
+  },
+  "revision": "8b1a25bc3cbf4dd82640a5e8b53cf32b3376580f1082031f3c827adb804aa083"
+}
